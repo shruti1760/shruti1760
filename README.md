@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=200&section=header&text=Hi%20there,%20I'm%20Shruti%20Nair%20🌅&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=600&lines=Data+Science+Student;Bridging+raw+data+and+agentic+AI;Training+models+on+PyTorch+%2B+caffeine;One+loss+function+at+a+time...🔥" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=600&lines=Data+Science+Student;Bridging+raw+data+and+agentic+AI;Training+models+on+PyTorch+%2B+caffeine;One+loss+function+at+a+time...%F0%9F%94%A5" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -38,23 +38,14 @@
 
 <br/>
 
-## 📊 GitHub Radar & Activity
+## 📊 GitHub Activity & Contribution Graph
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shruti1760&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti1760&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti1760&theme=react-dark&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti1760&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<br/>
-
-## 🏆 Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shruti1760&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 <br/>
