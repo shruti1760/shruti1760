@@ -17,13 +17,3 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Custom Palette styling from your color image
-          config_colors: |
-            [
-              "#350943", # Background/Base (Dark Amethyst)
-              "#5054A8", # Low Activity (Ocean Twilight)
-              "#F0C9FA", # Medium Activity (Thistle)
-              "#EEC1D3", # High Activity (Pastel Petal)
-              "#529F0F"  # Peak Activity (Bright Fern)
-            ]
