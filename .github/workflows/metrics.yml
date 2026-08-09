@@ -10,17 +10,19 @@ jobs:
     permissions:
       contents: write
     steps:
+      # 1. Isometric Calendar
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+      # 2. Recent Activity
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.activity.svg
           base: ""
           plugin_activity: yes
