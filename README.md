@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=200&section=header&text=Hi%20there,%20I'm%20Shruti%20Nair%20🌅&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C1966,50:01595A,100:06F284&height=200&section=header&text=Hi%20there,%20I'm%20Shruti%20Nair%20⚡&fontSize=38&fontColor=EAF405&animation=fadeIn&fontAlignY=38" alt="Header banner"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=600&lines=Data+Science+Student;Bridging+raw+data+and+agentic+AI;Training+models+on+PyTorch+%2B+caffeine;One+loss+function+at+a+time...%F0%9F%94%A5" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=06F284&center=true&vCenter=true&width=600&lines=Data+Science+Student;Bridging+raw+data+and+agentic+AI;Training+models+on+PyTorch+%2B+caffeine;One+loss+function+at+a+time...%F0%9F%94%A5" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-nair-10587828a/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shruti1760&style=for-the-badge&color=FF4500&label=PROFILE+VIEWS%20🔥" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shruti1760&style=for-the-badge&color=06F284&label=PROFILE+VIEWS%20⚡" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -41,11 +41,11 @@
 ## 📊 GitHub Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti1760&theme=react-dark&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti1760&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti1760&theme=synthwave&background=021826&ring=06F284&fire=EAF405&currStreakNum=9BFF6C&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <br/>
@@ -55,9 +55,4 @@
   <sub><b>Thanks for stopping by!</b> Let's collaborate or chat on <a href="https://www.linkedin.com/in/shruti-nair-10587828a/">LinkedIn</a>.</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=120&section=footer" alt="Footer banner"/>
-
-<!-- 📅 Isometric Commit Calendar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shruti1760/shruti1760/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06F284,50:01595A,100:5C1966&height=120&section=footer" alt="Footer banner"/>
