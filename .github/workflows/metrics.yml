@@ -1,0 +1,29 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # Custom Palette styling from your color image
+          config_colors: |
+            [
+              "#350943", # Background/Base (Dark Amethyst)
+              "#5054A8", # Low Activity (Ocean Twilight)
+              "#F0C9FA", # Medium Activity (Thistle)
+              "#EEC1D3", # High Activity (Pastel Petal)
+              "#529F0F"  # Peak Activity (Bright Fern)
+            ]
