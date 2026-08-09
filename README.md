@@ -55,4 +55,12 @@
   <sub><b>Thanks for stopping by!</b> Let's collaborate or chat on <a href="https://www.linkedin.com/in/shruti-nair-10587828a/">LinkedIn</a>.</sub>
 </p>
 
+<br/>
+
+## 📰 Recent Activity
+
+<p align="center">
+  <img src="./metrics.plugin.activity.svg" alt="Recent Activity" width="100%"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06F284,50:01595A,100:5C1966&height=120&section=footer" alt="Footer banner"/>
