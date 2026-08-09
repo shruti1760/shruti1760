@@ -56,3 +56,8 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=120&section=footer" alt="Footer banner"/>
+
+<!-- 📅 Isometric Commit Calendar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shruti1760/shruti1760/main/metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%"/>
+</p>
