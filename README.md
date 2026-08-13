@@ -1,60 +1,111 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C1966,50:01595A,100:06F284&height=200&section=header&text=Hi%20there,%20I'm%20Shruti%20Nair%20⚡&fontSize=38&fontColor=EAF405&animation=fadeIn&fontAlignY=38" alt="Header banner"/>
+<!--
+  SHRUTI.OS // PROFILE README
+  Palette: void #050816 · indigo #312E81 · electric cyan #67E8F9 · violet #A78BFA · solar #FBBF24
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=06F284&center=true&vCenter=true&width=600&lines=Data+Science+Student;Bridging+raw+data+and+agentic+AI;Training+models+on+PyTorch+%2B+caffeine;One+loss+function+at+a+time...%F0%9F%94%A5" alt="Typing SVG"/>
+  <img src="./assets/mission-control-observatory.png" width="100%" alt="Shruti at a deep-space mission-control observatory" />
 </p>
+
+<h1 align="center">Shruti Nair</h1>
+
+<p align="center"><i>Data Science student · Intelligent systems builder · Curious about what comes next</i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shruti-nair-10587828a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shruti1760&style=for-the-badge&color=06F284&label=PROFILE+VIEWS%20⚡" alt="Profile Views"/>
-</p>
-
-<br/>
-
-## 🛠️ The Tech Toolbox
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-<br/>
-
-## 🧪 Current Experiments & Focus Areas
-
-- 🤖 **Agentic AI Workflows:** Building intelligent agents using **Google ADK**.
-- 📊 **Visual Storytelling:** Turning chaotic data into decision-ready dashboards in **Power BI** & **Tableau**.
-- ☁️ **Cloud Fluency:** Scaling models and pipeline infrastructure on **AWS**.
-- 🧹 **Database Wrangling:** Writing SQL queries that are cleaner than my Git commit history.
-- ☕ **Fuel:** Powered by GPUs, gradient descent, and high-octane coffee.
-
-<br/>
-
-## 📊 GitHub Activity & Contribution Graph
-
-<p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Isometric Commit Calendar" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Booting+intelligent+systems...;Turning+data+into+decisions.;Exploring+the+agentic+frontier." alt="Animated mission statement" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti1760&theme=synthwave&background=021826&ring=06F284&fire=EAF405&currStreakNum=9BFF6C&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/shruti1760"><img src="https://img.shields.io/badge/GITHUB-OPEN%20PROFILE-050816?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=312E81" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/shruti-nair-10587828a/"><img src="https://img.shields.io/badge/LINKEDIN-ESTABLISH%20UPLINK-050816?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=312E81" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shruti1760&style=for-the-badge&color=7C3AED&label=MISSION+VISITORS" alt="Profile views" />
 </p>
-
-<br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="50" alt="Coding GIF"/><br/>
-  <sub><b>Thanks for stopping by!</b> Let's collaborate or chat on <a href="https://www.linkedin.com/in/shruti-nair-10587828a/">LinkedIn</a>.</sub>
+  <img src="https://img.shields.io/badge/STATUS-●%20SYSTEMS%20NOMINAL-0B1220?style=flat-square&labelColor=0B1220&color=22C55E" alt="Systems nominal" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-0B1220?style=flat-square&labelColor=0B1220&color=67E8F9" alt="India" />
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-0B1220?style=flat-square&labelColor=0B1220&color=A78BFA" alt="Agentic AI" />
 </p>
 
-<br/>
+## ◈ Command Deck
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06F284,50:01595A,100:5C1966&height=120&section=footer" alt="Footer banner"/>
+> **Welcome aboard.** I’m **Shruti Nair**, a Data Science student building at the intersection of machine learning, intelligent agents, and data-driven systems.
+
+I like work that makes information useful: teaching models to see, helping language systems reason, and designing AI workflows that can take meaningful action.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◉ Current trajectory</h3>
+      <p>Building intelligent, data-driven applications while going deeper into <b>Agentic AI</b>, NLP, machine learning, and cloud systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◌ Research signals</h3>
+      <p>Computer Vision · NLP · LLMs · Autonomous Workflows · Decision Intelligence</p>
+    </td>
+  </tr>
+</table>
+
+## ✦ Active Missions
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>SR-01 · Literature Intelligence</h3>
+      <p>An AI-assisted research exploration system for navigating and reasoning over academic papers.</p>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE-312E81?style=flat-square&labelColor=050816&color=67E8F9" alt="Active" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>SR-02 · Breed Recognition</h3>
+      <p>Dual-pipeline vision system identifying Indian cattle and buffalo breeds, plus muzzle detection.</p>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETED-312E81?style=flat-square&labelColor=050816&color=22C55E" alt="Completed" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>SR-03 · Disaster Intelligence</h3>
+      <p>NLP system that prioritises disaster-related social signals by urgency and information value.</p>
+      <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-312E81?style=flat-square&labelColor=050816&color=FBBF24" alt="In development" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BEST%20PAPER-AID--con%202025-FBBF24?style=for-the-badge&labelColor=050816" alt="Best Paper at AID-con 2025" />
+</p>
+
+## ◫ Systems Online
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql,aws,git,github&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, MySQL, AWS, Git and GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-TRANSFORMERS%20%C2%B7%20SBERT%20%C2%B7%20NLTK-050816?style=flat-square&labelColor=312E81&color=A78BFA" alt="NLP stack" />
+  <img src="https://img.shields.io/badge/DATA-PANDAS%20%C2%B7%20SQL%20%C2%B7%20POWER%20BI%20%C2%B7%20TABLEAU-050816?style=flat-square&labelColor=312E81&color=67E8F9" alt="Data stack" />
+  <img src="https://img.shields.io/badge/AGENTS-GOOGLE%20ADK%20%C2%B7%20LLMS-050816?style=flat-square&labelColor=312E81&color=F472B6" alt="Agent stack" />
+</p>
+
+## ◌ Mission Telemetry
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shruti1760&show_icons=true&hide_title=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=FBBF24" alt="Shruti's GitHub statistics" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shruti1760&hide_border=true&background=050816&ring=FBBF24&fire=F472B6&currStreakNum=F8FAFC&sideNums=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" alt="Shruti's contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti1760&bg_color=050816&color=CBD5E1&line=67E8F9&point=FBBF24&area=true&area_color=312E81&hide_border=true" width="96%" alt="Contribution activity graph" />
+</p>
+
+<details>
+  <summary><b>Mission archive · click to decrypt</b></summary>
+  <br />
+
+  - AI / ML internship
+  - National hackathon participant
+  - Best visualization award
+  - Research publication and copyright
+  - Agentic AI, Data Science, and Deep Learning certifications
+</details>
+
+---
+
+<p align="center"><i>Building toward the next useful, intelligent thing.</i></p>
