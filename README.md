@@ -4,10 +4,8 @@
 -->
 
 <p align="center">
-  <img src="./assets/mission-control-observatory.png" width="100%" alt="Shruti at a deep-space mission-control observatory" />
+  <img src="mission-control-boot.gif" width="100%" alt="Shruti at a deep-space mission-control observatory" />
 </p>
-
-<h1 align="center">Shruti Nair</h1>
 
 <p align="center"><i>Data Science student · Intelligent systems builder · Curious about what comes next</i></p>
 
@@ -87,8 +85,7 @@ I like work that makes information useful: teaching models to see, helping langu
 ## ◌ Mission Telemetry
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shruti1760&show_icons=true&hide_title=true&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=FBBF24" alt="Shruti's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=shruti1760&hide_border=true&background=050816&ring=FBBF24&fire=F472B6&currStreakNum=F8FAFC&sideNums=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" alt="Shruti's contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shruti1760&hide_border=true&background=050816&ring=FBBF24&fire=F472B6&currStreakNum=F8FAFC&sideNums=67E8F9&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B" alt="Shruti's contribution streak" />
 </p>
 
 <p align="center">
