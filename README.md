@@ -82,14 +82,6 @@ I like work that makes information useful: teaching models to see, helping langu
   <img src="https://img.shields.io/badge/AGENTS-GOOGLE%20ADK%20%C2%B7%20LLMS-050816?style=flat-square&labelColor=312E81&color=F472B6" alt="Agent stack" />
 </p>
 
-## ◉ Arcade Sector
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shruti1760/shruti1760/output/space-snake.svg" alt="Animated contribution flight path" />
-</p>
-
-<p align="center"><sub>CONTRIBUTIONS = FUEL &nbsp;·&nbsp; THE FLIGHT PATH UPDATES DAILY</sub></p>
-
 ## ◌ Mission Telemetry
 
 <p align="center">
